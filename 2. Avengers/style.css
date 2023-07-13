@@ -1,0 +1,18 @@
+.capa{
+    position: absolute;
+    background-color: aqua;
+    /* visibility: hidden; */
+    width: 300px;
+}
+    
+.img:hover .capa{
+    visibility: visible;
+}
+
+
+img{
+    width: 300px;
+
+    position: relative;
+
+}
